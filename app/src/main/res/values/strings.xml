@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">EasyMask</string>
+    <string name="tab_text_1">Zarządzenia</string>
+    <string name="tab_text_2">Informacje</string>
+    <string name="tab_text_3">Maseczki</string>
+    <string name="resctrictions">1. Ograniczenia w przemieszczaniu się i odległość między pieszymi:</string>
+    <string name="restrictions1">Wyłączeni z tego obowiązku są:</string>
+    <string name="restrictions2">   - rodzice z dziećmi wymagającymi opieki (do 13. roku życia)</string>
+    <string name="restrictions3">   - osoby wspólnie mieszkające lub gospodarujące</string>
+    <string name="restrictions4">   - osoby niepełnosprawne, niemogące się samodzielnie poruszać, osoby z orzeczeniem o potrzebie kształcenia specjalnego i ich opiekunowie.</string>
+    <string name="restrictions5">   - rodzice z dziećmi wymagającymi opieki (do 13. roku życia)</string>
+
+
+    <string name="restrictions6">2. Zasłanianie ust i nosa w miejcach publicznych: </string>
+    <string name="restrictions8">Usta i nos trzeba obowiązkowo zasłaniać m.in.: </string>
+    <string name="restrictions9">   - na ulicy, na drogach i placach, na terenie cmentarzy, promenad, bulwarów, miejsc postoju pojazdów, parkingów leśnych</string>
+    <string name="restrictions10">  - w autobusie, tramwaju i pociągu,</string>
+    <string name="restrictions11">  - w sklepie, galerii handlowej, banku, na targu i na poczcie,</string>
+    <string name="restrictions12">  - w zakładzie pracy, jeśli w pomieszczeniu przebywa więcej niż 1 osoba. Wprowadzenie tej zasady zależy od decyzji pracodawcy,</string>
+    <string name="restrictions13">  - w kinie i teatrze,</string>
+    <string name="restrictions14">  - u lekarza, w przychodni, w szpitalu, salonie masażu i tatuażu,</string>
+    <string name="restrictions15">  - w kościele i szkole, na uczelni</string>
+    <string name="restrictions16">  - w urzędzie (jeśli idziesz załatwić tam jakąś sprawę) i innych budynkach użyteczności publicznej</string>
+    <string name="restrictions17">  <bold>Gdzie nie trzeba zasłaniać ust i nosa?</bold> W lesie, parku, w zieleńcach, ogrodach botanicznych, ogrodach zabytkowych, w rodzinnych ogródkach działkowych i na plaży oraz w czasie podróży prywatnym samochodem.</string>
+    <string name="restrictions18">  - na drogach i placach (dotyczy również osób jeżdżących np. rowerem lub hulajnogą),</string>
+
+
+    <string name="przemieszczanie">3. Przemieszczanie się osób </string>
+    <string name="przemieszczanie1">Od 5 stycznia 2021 r. nie obowiązuje już nakaz przemieszczania się dzieci i młodzieży do 16. roku życia pod opieką dorosłych.</string>
+    <string name="przemieszczanie2">Seniorzy</string>
+    <string name="przemieszczanie3">Seniorze, zostań w domu! Apelujemy o ograniczenie przemieszczania się seniorów– zwłaszcza osób po 70. roku życia. Wyjątkiem są sytuacje związane z:</string>
+    <string name="przemieszczanie4">  - wykonywaniem czynności zawodowych,</string>
+    <string name="przemieszczanie5">  - zaspokajaniem niezbędnych potrzeb związanych z bieżącymi sprawami życia codziennego,</string>
+    <string name="przemieszczanie6">  - sprawowaniem lub uczestniczeniem w sprawowaniu kultu religijnego, w tym czynności lub obrzędów religijnych.</string>
+
+
+    <string name="kwarantine">4. Kwarantanna:</string>
+    <string name="kwarantine1">Ograniczenie dotyczy osób, które:</string>
+    <string name="kwarantine2">  - przekraczają granicę RP stanowiącą zewnętrzną granicę UE</string>
+    <string name="kwarantine3">  - przekraczają granicę RP transportem zorganizowanym</string>
+    <string name="kwarantine4">  - miały kontakt z osobami zakażonymi (lub potencjalnie zakażonymi) koronawirusem,</string>
+    <string name="kwarantine5">  - zostały skierowane na test w kierunku COVID-19 przez lekarza podstawowej lub nocnej opieki zdrowotnej.</string>
+
+    <string name="infToday"> Liczba zachorowań dzisiaj :  0 </string>
+    <string name="infGeneral"> Liczba zachorowań ogółem :  0 </string>
+    <string name="deathsGeneral"> Liczba zgonów ogółem :  0 </string>
+    <string name="deathsToday"> Liczba zgonów dzisiaj :  0 </string>
+</resources>

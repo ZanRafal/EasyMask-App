@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    android:visibility="visible"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:text="Dostępne maseczki: "
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/black" />
+
+    <ListView
+        android:id="@+id/lystTo"
+        android:layout_width="wrap_content"
+        android:layout_height="248dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp">
+
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/addButton"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:onClick="addItem"
+            android:text="Dodaj maseczkę" />
+
+        <Button
+            android:id="@+id/removeButton"
+            android:layout_width="240dp"
+
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:onClick="removeItem"
+            android:text="Usuń maseczkę" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

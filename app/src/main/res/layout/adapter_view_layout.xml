@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="100">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="TextView1"
+        android:id="@+id/maskName"
+        android:layout_weight="66.6"
+        android:textAlignment="center"
+        android:foregroundGravity="center"
+        android:gravity="center" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="33.3">
+
+        <TextView
+            android:gravity="center"
+            android:text="TextView2"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:id="@+id/maskTime"/>
+
+        <TextView
+            android:gravity="center"
+            android:text="TextView3"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:id="@+id/maskCondition"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
