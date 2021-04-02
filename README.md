@@ -19,6 +19,6 @@ Third page allows the user to keep track of his/her currently used masks. Each m
 ![image](https://user-images.githubusercontent.com/73364581/113208784-7e6e0a80-9272-11eb-9954-f602c30ea82b.png)
 
 Technologies Used:
--Android Studio
--Java
--Jsoup external library (for scraping necessary data)
+- Android Studio
+- Java
+- Jsoup external library (for scraping necessary data)
